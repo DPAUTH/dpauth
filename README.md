@@ -1,5 +1,5 @@
 
-- 🏢 Software Engineer (Full Stack), in Thessaloniki, Greece
-- 🧰 I build with: `Python`, `Java`, `JavaScript`, `Salesforce Apex`, `Lightning Web Components`
-- 😄 Pronouns: he/him
+- 🏢 Software Engineer (Full Stack Web Developer), in Utrecht, NL
+- 🧰 I build with: `Javascript`, `React`, `Typescript`, `Java`, `Salesforce Apex`, `Lightning Web Components`
+- 😊 Pronouns: he/him
 
